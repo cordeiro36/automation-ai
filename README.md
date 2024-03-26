@@ -1,4 +1,4 @@
-# Automação de extração de principais notícias, utilizando Web Scraping, Python, Selenium e API do chatGPT
+# Automação para extração de principais notícias, utilizando Web Scraping, Python, Selenium e API do chatGPT
 
 Requisitos:
 
